@@ -1,0 +1,14 @@
+newmtl silk
+    Ni 1.00
+    Kd 0.00 0.00 0.00
+    Ka 0.00 0.00 0.00
+    Tf 1.00 1.00 1.00
+	map_Ka ../obj/textures/papierpeint.jpg
+	map_Kd ../obj/textures/papierpeint.jpg
+newmtl wood
+    Ni 1.00
+    Kd 0.00 0.00 0.00
+    Ka 0.00 0.00 0.00
+    Tf 1.00 1.00 1.00
+	map_Ka ../obj/textures/puro-color.jpg
+	map_Kd ../obj/textures/puro-color.jpg
