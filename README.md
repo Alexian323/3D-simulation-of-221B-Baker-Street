@@ -1,3 +1,5 @@
+Create a build folder
+
 From \build : 
 
 cmake ..
