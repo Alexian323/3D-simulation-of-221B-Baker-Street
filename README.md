@@ -1,6 +1,6 @@
-Create a build folder
+cmake .
 
-From \build : 
+cd build
 
 cmake ..
 
